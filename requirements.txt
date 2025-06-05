@@ -1,4 +1,5 @@
 Flask
-requests
+pdfkit
 python-docx
-fpdf
+requests
+python-dotenv
